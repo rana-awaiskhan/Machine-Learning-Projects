@@ -1,0 +1,14 @@
+# Node/React
+frontend/node_modules/
+frontend/dist/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Database (agar SQLite hoti, SQL Server ki koi file nahi hoti yahan)
+*.db
+
+# Environment
+.env
